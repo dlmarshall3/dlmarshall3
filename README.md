@@ -2,6 +2,8 @@
 🚙 Car salesman ➡ 💻 Software engineer\
 👪 Happily married, father of two\
 ⛪ Church history nerd\
+🎶 Metal singer\
+🎤 Podcaster\
 💡 Love talking about digital technology/ethics/habits
 
 <!--
