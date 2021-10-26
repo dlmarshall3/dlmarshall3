@@ -4,7 +4,7 @@
 ⛪ Church history nerd\
 🎶 Metal singer\
 🎤 Podcaster\
-💡 Love talking about digital technology/ethics/habits
+💡 Loves talking about digital technology/ethics/habits
 
 <!--
 **dlmarshall3/dlmarshall3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
