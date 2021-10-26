@@ -1,8 +1,8 @@
--👋 My name is David!
--🚙 Car salesman ➡ 💻 Software engineer 
--👪 Happily married, father of two 
--⛪ Church history nerd 
--💡 Love talking about digital technology/ethics/habits
+👋 My name is David!\
+🚙 Car salesman ➡ 💻 Software engineer\
+👪 Happily married, father of two\
+⛪ Church history nerd\
+💡 Love talking about digital technology/ethics/habits
 
 <!--
 **dlmarshall3/dlmarshall3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
