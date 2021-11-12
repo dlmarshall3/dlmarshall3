@@ -1,7 +1,6 @@
 👋 My name is David!\
 🚙 Car salesman ➡ 💻 Software engineer\
 👪 Happily married, father of two\
-⛪ Church history nerd\
 🎶 Metal singer\
 🎤 Podcaster\
 💡 Loves talking about digital technology/ethics/habits
