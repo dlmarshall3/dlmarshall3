@@ -1,5 +1,9 @@
+<img src="https://i.ibb.co/vh8fqy7/henshin-coder-hi-res.jpg" width="300px">
+
 👋 My name is David!\
-🚙 Car salesman ➡ 💻 Software engineer\
+🦸‍♂️ The Henshin Coder: https://dlmarshall3.github.io/ \
+🚙 Car salesman (now) \
+💻Software engineer (soon)\
 👪 Happily married, father of two\
 🎶 Metal singer\
 🎤 Podcaster\
