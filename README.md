@@ -2,8 +2,7 @@
 
 👋 My name is David!\
 🦸‍♂️ The Henshin Coder: https://dlmarshall3.github.io/ \
-🚙 Car salesman (now) \
-💻Software engineer (soon)\
+🚙 Car salesman turned 💻 Software engineer
 👪 Happily married, father of two\
 🎶 Metal singer\
 🎤 Podcaster\
