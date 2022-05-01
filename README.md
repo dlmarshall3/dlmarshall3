@@ -1,24 +1,7 @@
-<img src="https://i.ibb.co/vh8fqy7/henshin-coder-hi-res.jpg" width="300px">
-
 👋 My name is David!\
-🦸‍♂️ The Henshin Coder: https://dlmarshall3.github.io/ \
 🚙 Car salesman turned 💻 Software engineer\
 👪 Happily married, father of two\
 🎶 Metal singer\
 🎤 Podcaster\
-💡 Loves talking about digital technology/ethics/habits
-
-<!--
-**dlmarshall3/dlmarshall3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Loves talking about digital technology/ethics/habits\
+⚠️ Most of my work is done with my work Github account, so activity !== reality.
