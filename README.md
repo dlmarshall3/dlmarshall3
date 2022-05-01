@@ -4,4 +4,4 @@
 🎶 Metal singer\
 🎤 Podcaster\
 💡 Loves talking about digital technology/ethics/habits\
-⚠️ Most of my work is done with my work Github account, so activity !== reality.
+⚠️ Most of my work is done with my work Github account, so "contributions" !== reality.
